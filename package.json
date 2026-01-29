@@ -1,6 +1,6 @@
 {
   "name": "clawdfun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ClawdFun - AI-powered meme token concept generator for Telegram",
   "type": "module",
   "main": "dist/index.js",
@@ -20,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOURUSERNAME/clawdfun.git"
+    "url": "git+https://github.com/achievagrace/clawdfun.git"
   },
-  "homepage": "https://github.com/YOURUSERNAME/clawdfun#readme",
+  "homepage": "https://github.com/achievagrace/clawdfun#readme",
   "bugs": {
-    "url": "https://github.com/YOURUSERNAME/clawdfun/issues"
+    "url": "https://github.com/achievagrace/clawdfun/issues"
   },
   "keywords": [
     "meme",
