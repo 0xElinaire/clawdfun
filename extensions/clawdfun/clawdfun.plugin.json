@@ -1,0 +1,10 @@
+{
+  "id": "clawdfun",
+  "name": "ClawdFun",
+  "description": "Meme token concept generator - creates unique crypto token ideas with names, tickers, narratives, and tokenomics",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
