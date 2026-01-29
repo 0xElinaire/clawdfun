@@ -1,7 +1,7 @@
 {
   "name": "clawdfun",
   "version": "1.0.1",
-  "description": "ClawdFun - AI-powered meme token concept generator for Telegram",
+  "description": "ClawdFun - AI-powered meme token generator and deployer for Telegram",
   "type": "module",
   "main": "dist/index.js",
   "exports": {
@@ -34,7 +34,10 @@
     "bot",
     "ai",
     "claude",
-    "openai"
+    "openai",
+    "solana",
+    "pump.fun",
+    "deploy"
   ],
   "author": "ClawdFun Team",
   "license": "MIT",
@@ -42,6 +45,8 @@
     "node": ">=22.12.0"
   },
   "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "bs58": "^6.0.0",
     "@agentclientprotocol/sdk": "0.13.1",
     "@aws-sdk/client-bedrock": "^3.975.0",
     "@buape/carbon": "0.14.0",
