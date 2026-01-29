@@ -1,6 +1,6 @@
 {
   "name": "clawdfun",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ClawdFun - AI-powered meme token generator and deployer for Telegram",
   "type": "module",
   "main": "dist/index.js",
